@@ -5,9 +5,9 @@ set -e
 SCRIPT_BASE_DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 
 # Login Information
-OSE_CLI_USER="admin"
-OSE_CLI_PASSWORD="admin"
-OSE_CLI_HOST="https://10.1.2.2:8443"
+OSE_CLI_USER="atp1vka"
+OSE_CLI_PASSWORD="welcome"
+OSE_CLI_HOST="https://osesbmaster01.sb.ose.atpco.org:8443"
 
 CUSTOM_BASE_IMAGE_PROJECT="custom-base-image"
 
